@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sviz/static/css/main.46531a63.chunk.css",
+    "main.js": "/Sviz/static/js/main.fe137646.chunk.js",
+    "main.js.map": "/Sviz/static/js/main.fe137646.chunk.js.map",
+    "runtime-main.js": "/Sviz/static/js/runtime-main.a7960828.js",
+    "runtime-main.js.map": "/Sviz/static/js/runtime-main.a7960828.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Sviz/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.870d3b8d.chunk.js": "/Sviz/static/js/2.870d3b8d.chunk.js",
+    "static/js/2.870d3b8d.chunk.js.map": "/Sviz/static/js/2.870d3b8d.chunk.js.map",
+    "index.html": "/Sviz/index.html",
+    "precache-manifest.edbe44a8f3bbf1c4a7b463e9c0218415.js": "/Sviz/precache-manifest.edbe44a8f3bbf1c4a7b463e9c0218415.js",
+    "service-worker.js": "/Sviz/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Sviz/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.46531a63.chunk.css.map": "/Sviz/static/css/main.46531a63.chunk.css.map",
+    "static/js/2.870d3b8d.chunk.js.LICENSE.txt": "/Sviz/static/js/2.870d3b8d.chunk.js.LICENSE.txt",
+    "static/media/logomark1white.png": "/Sviz/static/media/logomark1white.f5ce80b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7960828.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.870d3b8d.chunk.js",
+    "static/css/main.46531a63.chunk.css",
+    "static/js/main.fe137646.chunk.js"
+  ]
+}
