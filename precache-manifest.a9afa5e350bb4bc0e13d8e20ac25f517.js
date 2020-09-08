@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12368856c0a39a277158506fc10e03a6",
+    "revision": "bb5b0be074617e1f15f382c4a1baf378",
     "url": "/Sviz/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sviz/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "878d5fe2a1c4c971c3cc",
-    "url": "/Sviz/static/css/main.46531a63.chunk.css"
+    "revision": "4e24db738460340156b8",
+    "url": "/Sviz/static/css/main.45e8a163.chunk.css"
   },
   {
     "revision": "caf10591777302a2e860",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sviz/static/js/2.870d3b8d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "878d5fe2a1c4c971c3cc",
+    "revision": "4e24db738460340156b8",
     "url": "/Sviz/static/js/main.cde0d8fc.chunk.js"
   },
   {
